@@ -1,0 +1,11 @@
+Student Id,Country Code,Enrolled Year,Age,Gender,ExperiencedCode,Enrolle,Engagement Month,Engagement Year,Engagement Type
+1           US   2020 3 49UNJMC      93.33OCTOBER   2020Lecture 14                    
+1           US   2020 3 49UNPYMC     33.33FEBRUARY  2020Lecture 5                     
+2           US   2016 7 54FYJMC      86.67SEPTEMBER 2021Lecture 13                    
+2           US   2016 7 54FYPYMC     20.00JANUARY   2020Lecture 3                     
+3           GB   202110 54MNJMC      46.67APRIL     2023Lecture 7                     
+3           GB   202110 54MNPYMC     80.00FEBRUARY  2022Lecture 12                    
+4           AU   2023 7 68UYJMC      80.00DECEMBER  2023Lecture 12                    
+4           AU   2023 7 68UYPYMC     80.00JULY      2023Lecture 12                    
+5           US   2017 6 28FYJMC      66.67AUGUST    2019Lecture 10                    
+5           US   2017 6 28FYPYMC     93.33JANUARY   2018Lecture 14                    

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractClassChallenge/AbstractClassChallenge.iml" filepath="$PROJECT_DIR$/AbstractClassChallenge/AbstractClassChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractClassChallenge2/AbstractClassChallenge2.iml" filepath="$PROJECT_DIR$/AbstractClassChallenge2/AbstractClassChallenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" filepath="$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositionHasA/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/CompositionHasA/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays1.iml" filepath="$PROJECT_DIR$/Arrays/Arrays1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankApplication/BankApplication.iml" filepath="$PROJECT_DIR$/BankApplication/BankApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BillsBurger/BillsBurger.iml" filepath="$PROJECT_DIR$/BillsBurger/BillsBurger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BoxingAndUnboxing/BoxingAndUnboxing.iml" filepath="$PROJECT_DIR$/BoxingAndUnboxing/BoxingAndUnboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositionHasA/Challegne/Challegne.iml" filepath="$PROJECT_DIR$/CompositionHasA/Challegne/Challegne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsOverview/CollectionsOverview.iml" filepath="$PROJECT_DIR$/CollectionsOverview/CollectionsOverview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositionHasA/CompositionHasA/CompositionHasA.iml" filepath="$PROJECT_DIR$/CompositionHasA/CompositionHasA/CompositionHasA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoClient/EchoClient.iml" filepath="$PROJECT_DIR$/EchoClient/EchoClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoClient - Copy/EchoClient - Copy.iml" filepath="$PROJECT_DIR$/EchoClient - Copy/EchoClient - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoClient - Copy (2)/EchoClient - Copy (2).iml" filepath="$PROJECT_DIR$/EchoClient - Copy (2)/EchoClient - Copy (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoServer/EchoServer.iml" filepath="$PROJECT_DIR$/EchoServer/EchoServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumType/EnumType.iml" filepath="$PROJECT_DIR$/EnumType/EnumType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericClassChallenge/GenericClassChallenge.iml" filepath="$PROJECT_DIR$/GenericClassChallenge/GenericClassChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics2/Generics2.iml" filepath="$PROJECT_DIR$/Generics2/Generics2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsExtras/GenericsExtras.iml" filepath="$PROJECT_DIR$/GenericsExtras/GenericsExtras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" filepath="$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacePlayerChallenge/InterfacePlayerChallenge.iml" filepath="$PROJECT_DIR$/InterfacePlayerChallenge/InterfacePlayerChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaIntro/LambdaIntro.iml" filepath="$PROJECT_DIR$/LambdaIntro/LambdaIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobilePhone/MobilePhone.iml" filepath="$PROJECT_DIR$/MobilePhone/MobilePhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/Networking.iml" filepath="$PROJECT_DIR$/Networking/Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NutsAndBoltsOfJava/NutsAndBoltsOfJava.iml" filepath="$PROJECT_DIR$/NutsAndBoltsOfJava/NutsAndBoltsOfJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Playlist/Playlist.iml" filepath="$PROJECT_DIR$/Playlist/Playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" filepath="$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticNestedClasses/StaticNestedClasses.iml" filepath="$PROJECT_DIR$/StaticNestedClasses/StaticNestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDPClient/UDPClient.iml" filepath="$PROJECT_DIR$/UDPClient/UDPClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDPServer/UDPServer.iml" filepath="$PROJECT_DIR$/UDPServer/UDPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-snippets.iml" filepath="$PROJECT_DIR$/.idea/java-snippets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/using-final-and-immutable-classes-and-initializers-and-sealed-classes/using-final-and-immutable-classes-and-initializers-and-sealed-classes.iml" filepath="$PROJECT_DIR$/using-final-and-immutable-classes-and-initializers-and-sealed-classes/using-final-and-immutable-classes-and-initializers-and-sealed-classes.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+Here is some data,
+For my file,
+just to prove,
+Using Files n path is much more modern and convenient than File class,
+Also File is not used to actual I/O operations. but used to represent file n directory pathnames
